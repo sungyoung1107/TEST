@@ -37,7 +37,7 @@ a {
   flex-direction: column;
   justify-content: flex-start;
   margin-top: 10px;
-  border: 1px solid rgb(191, 196, 196);
+  border: 1px solid rgb(22, 140, 140); /* git 사용으로 변경해보기 */
   border-radius: 20px;
 }
 
